@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: oauthapp
+ 
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Ov23liUUPK265DwFGgJV
+
+            clientSecret: 362ee5935d62f155537b6cbe9b4978a4326b2675
+            redirect-uri: "http://localhost:8081/login/oauth2/code/github"
+server:
+   port: 8081
