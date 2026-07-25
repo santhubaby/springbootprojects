@@ -1,0 +1,4 @@
+in\ashokit\KafkaproducerApplication.class
+in\ashokit\service\Kafkaservice.class
+in\ashokit\model\Course.class
+in\ashokit\controller\Kafkacontroller.class
